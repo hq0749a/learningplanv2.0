@@ -1,2 +1,2 @@
-# learningplanv2.0
-每日一讲
+# Initial page
+
