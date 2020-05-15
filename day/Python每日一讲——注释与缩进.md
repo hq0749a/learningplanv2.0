@@ -49,7 +49,7 @@ name = "Madisetti" # 这是一个注释
 """
 ```
 
-![wps11](C:\Users\hq0749a\Desktop\learningplanv2.0\img\wps11.jpg)
+![wps11](../img/wps11.jpg)
 
 ## 缩进
 
